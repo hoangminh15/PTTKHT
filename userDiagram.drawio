@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T13:46:56.655Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ZLhenUQW0ajAVDgx2pi0" version="13.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-05T13:48:20.743Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="zRlZqqW4y2YNFsHTS-B9" version="13.9.1" type="github">
   <diagram id="b3vTMYLCP9W2PtNbt77q" name="Page-1">
     <mxGraphModel dx="1022" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,6 +315,9 @@
         </mxCell>
         <mxCell id="vDdJAQ7OFqMkGD9wHmio-56" value="Hệ thống giới thiệu chuông gọi phục vụ" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="370" y="-190" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vDdJAQ7OFqMkGD9wHmio-57" value="Thiếu một vài use case sửa ở đây...: i.e. sửa mục hỗ trợ khác hàng... Nhưng liệu nối như vậy có quá rối?&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="400" width="120" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
