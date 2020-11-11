@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:28:38.675Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="FssBmQ-UxnRPNyAOiaae" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T15:46:25.735Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="inDbpkVQvBnZsXOxBZKK" version="13.9.2" type="github">
   <diagram id="Mi9xJWpBx_9w5uoCApjv" name="Page-1">
     <mxGraphModel dx="1036" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="g6qYfJalkcrM1z8YLCrI-11" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="42" width="50" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="g6qYfJalkcrM1z8YLCrI-12" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="g6qYfJalkcrM1z8YLCrI-12" value=":Database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="665" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g6qYfJalkcrM1z8YLCrI-13" value=":TrangChu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -231,6 +231,9 @@
             <mxPoint x="100" y="480" as="targetPoint" />
             <mxPoint x="291" y="480.1" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ChHka1Q7cJeoMfEFUiVF-19" value="database là controller thế này liệu có ổn?&amp;nbsp;&lt;br&gt;hay database là một actor?&lt;br&gt;database có thuộc hệ thống không?&lt;br&gt;Nếu dùng database là cloud thì có tính là thuộc hệ thống không?&lt;br&gt;Và nếu dùng thì phải xử lý thế nào" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="940" y="40" width="120" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
