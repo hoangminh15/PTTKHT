@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2020-11-11T12:59:09.840Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-1KAMTnSLUZiKbIvo1nC" version="13.9.2" type="github">
+  <diagram id="E5D34zQ7HBWcBiDVU5Oj" name="Page-1">
+    <mxGraphModel dx="1036" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D0a5mz-HwLYYZtohOHG1-3" value="Use case này quá đơn giản, liệu có cần làm?" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="365" y="100" width="120" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
