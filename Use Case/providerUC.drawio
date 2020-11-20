@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T08:42:03.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="gMUaLSaTD44bgvVFjR1C" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T14:24:00.228Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-j2KyfaDie9Dw69BGrnV" version="13.10.0" type="github">
   <diagram id="9cn4-sPAMM9QlVugcmKp" name="Page-1">
-    <mxGraphModel dx="782" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,23 +142,23 @@
             <mxPoint x="840" y="475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pRlMfOPpFzx5-5ufqS9S-1" value="Sửa sản phẩm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pRlMfOPpFzx5-5ufqS9S-1" value="Sửa sản phẩm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1230" y="180" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="pRlMfOPpFzx5-5ufqS9S-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.067;exitY=0.244;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pRlMfOPpFzx5-5ufqS9S-1" target="hVl3eKsV4c-Q1abWNWTe-14">
+        <mxCell id="pRlMfOPpFzx5-5ufqS9S-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.067;exitY=0.244;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="pRlMfOPpFzx5-5ufqS9S-1" target="hVl3eKsV4c-Q1abWNWTe-14" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1244.0245686639298" y="102.7821861117261" as="sourcePoint" />
             <mxPoint x="1196.04" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pRlMfOPpFzx5-5ufqS9S-3" value="Sản phẩm nó một đống thế này. Vậy em nên chia nó thành các use case con như thế nào?&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="330" width="120" height="120" as="geometry" />
+        <mxCell id="pRlMfOPpFzx5-5ufqS9S-3" value="Sản phẩm nó một đống thế này. Vậy em nên chia nó thành các use case con như thế nào?&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="325" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="pRlMfOPpFzx5-5ufqS9S-4" value="Use case nhận yêu cầu liên hệ bên sequence dia: sẽ làm thế nào khi mà mô hình boundary... là một chiều?&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="480" width="120" height="130" as="geometry" />
+        <mxCell id="pRlMfOPpFzx5-5ufqS9S-4" value="Use case nhận yêu cầu liên hệ bên sequence dia: sẽ làm thế nào khi mà mô hình boundary... là một chiều?&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="465" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="pRlMfOPpFzx5-5ufqS9S-5" value="Có cần cụ thể hóa thông tin khác: chính sách bảo hành...&lt;br&gt;Nếu cần thiết cụ thể hóa: liệu có thể tạo một use case xem thông tin khác riêng?" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="885" y="580" width="120" height="140" as="geometry" />
+        <mxCell id="pRlMfOPpFzx5-5ufqS9S-5" value="Thông tin khác: là chính sách bảo hành" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="840" y="590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
