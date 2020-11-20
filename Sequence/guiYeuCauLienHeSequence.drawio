@@ -1,103 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T12:48:17.872Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="LsW0ijgAR37LpwkEtnCv" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T01:23:52.185Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="WPjx09kpomTrnGmYTFBN" version="13.10.0" type="github">
   <diagram id="sI9TE-EgJMLFVtIxXHHQ" name="Page-1">
-    <mxGraphModel dx="1036" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GdoIcgviskt0OY-vlsV1-24" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-24" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234.5" y="430" as="sourcePoint" />
             <mxPoint x="234.5" y="177" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-3" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-3" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="95" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-4" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-4" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="90" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-5" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-5" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="95" width="50.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-6" value=":TrangHoTro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-6" value=":TrangHoTro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-7" value=":DieuKhienHoTro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-7" value=":DieuKhienHoTro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="485" y="150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-8" value=":Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-8" value=":Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="655.5" y="150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-9" value="Không tuân theo mô hình boundary controller entity được không?" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-9" value="Không tuân theo mô hình boundary controller entity được không?" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="175" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-10" value="Khuyết entity được không?&lt;br&gt;Vì đâu cần lưu data" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-10" value="Khuyết entity được không?&lt;br&gt;Vì đâu cần lưu data" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="720" y="40" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-13" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="GdoIcgviskt0OY-vlsV1-37">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-13" value="" style="endArrow=none;dashed=1;html=1;" parent="1" source="GdoIcgviskt0OY-vlsV1-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="674.75" y="433" as="sourcePoint" />
             <mxPoint x="674.75" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-14" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="GdoIcgviskt0OY-vlsV1-17">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-14" value="" style="endArrow=none;dashed=1;html=1;" parent="1" source="GdoIcgviskt0OY-vlsV1-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="164.5" y="433" as="sourcePoint" />
             <mxPoint x="164.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-15" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-15" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="433" as="sourcePoint" />
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-16" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" source="GdoIcgviskt0OY-vlsV1-27">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-16" value="" style="endArrow=none;dashed=1;html=1;" parent="1" source="GdoIcgviskt0OY-vlsV1-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="504.5" y="431" as="sourcePoint" />
             <mxPoint x="504.5" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="160" y="195" width="10" height="225" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-18" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="GdoIcgviskt0OY-vlsV1-17">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-18" value="" style="endArrow=none;dashed=1;html=1;" parent="1" target="GdoIcgviskt0OY-vlsV1-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="164.5" y="433" as="sourcePoint" />
             <mxPoint x="164.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-21" value="dienThongTinLienHe(:UserDetail)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-21" value="dienThongTinLienHe()" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="210" as="sourcePoint" />
             <mxPoint x="320" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-22" value="guiThongTinUser(:UserDetail)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-22" value="guiThongTinUser(:UserDetail)" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="234.5" as="sourcePoint" />
             <mxPoint x="500" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-23" value="MailSystem" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-23" value="MailSystem" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="500" y="230" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-28" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="GdoIcgviskt0OY-vlsV1-27">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-28" value="" style="endArrow=none;dashed=1;html=1;" parent="1" target="GdoIcgviskt0OY-vlsV1-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="504.5" y="431" as="sourcePoint" />
             <mxPoint x="504.5" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="506" y="300" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-30" value="emailUserDetail(:UserDetail)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="GdoIcgviskt0OY-vlsV1-29" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-30" value="emailUserDetail(:UserDetail)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" parent="1" target="GdoIcgviskt0OY-vlsV1-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="511" y="280" as="sourcePoint" />
             <Array as="points">
@@ -105,34 +105,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-32" value="sendEmail(email:Email)" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-32" value="guiEmail(email:Email)" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="506" y="337" as="sourcePoint" />
             <mxPoint x="240" y="337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-33" value="&amp;lt;&amp;lt;create(UserDetail)&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-33" value="&amp;lt;&amp;lt;create(UserDetail)&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="515.5" y="319.5" as="sourcePoint" />
             <mxPoint x="670" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="230" y="330" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-35" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.3;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GdoIcgviskt0OY-vlsV1-27">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-35" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.3;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GdoIcgviskt0OY-vlsV1-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="355" as="targetPoint" />
             <mxPoint x="290" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-36" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;baoGuiThongTinThanhCong()&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-36" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;baoGuiThongTinThanhCong()&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="360" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="670.25" y="318" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GdoIcgviskt0OY-vlsV1-38" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1" target="GdoIcgviskt0OY-vlsV1-37">
+        <mxCell id="GdoIcgviskt0OY-vlsV1-38" value="" style="endArrow=none;dashed=1;html=1;" parent="1" target="GdoIcgviskt0OY-vlsV1-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="674.75" y="433" as="sourcePoint" />
             <mxPoint x="674.75" y="180" as="targetPoint" />
