@@ -877,7 +877,7 @@
 											"top": 244,
 											"width": 159,
 											"height": 13,
-											"text": "+maHoaMatKhau()",
+											"text": "+layThongTinUser()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1978,7 +1978,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DRr3aEAnIGc="
 							},
-							"name": "maHoaMatKhau"
+							"name": "layThongTinUser"
 						},
 						{
 							"_type": "UMLOperation",

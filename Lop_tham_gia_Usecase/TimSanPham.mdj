@@ -564,7 +564,7 @@
 											"top": 301,
 											"width": 174,
 											"height": 13,
-											"text": "+kiemTra()",
+											"text": "+kiemTraNhapVao()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2807,7 +2807,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DeS/esU6Zhw="
 							},
-							"name": "kiemTra"
+							"name": "kiemTraNhapVao"
 						},
 						{
 							"_type": "UMLOperation",
