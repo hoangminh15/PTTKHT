@@ -1338,6 +1338,23 @@
 									"subViews": [
 										{
 											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF2M0P2lMhb/TQ=",
+											"_parent": {
+												"$ref": "AAAAAAF2DkpwX51RZi8="
+											},
+											"model": {
+												"$ref": "AAAAAAF2M0P2fshSVkY="
+											},
+											"font": "Arial;13;0",
+											"left": 1189,
+											"top": 315,
+											"width": 158,
+											"height": 13,
+											"text": "+id: int",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
 											"_id": "AAAAAAF2DkqSaZ2mAg0=",
 											"_parent": {
 												"$ref": "AAAAAAF2DkpwX51RZi8="
@@ -1347,7 +1364,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1189,
-											"top": 315,
+											"top": 330,
 											"width": 158,
 											"height": 13,
 											"text": "+tenSP: String",
@@ -1364,7 +1381,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1189,
-											"top": 330,
+											"top": 345,
 											"width": 158,
 											"height": 13,
 											"text": "+gia: long",
@@ -1381,7 +1398,7 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1189,
-											"top": 345,
+											"top": 360,
 											"width": 158,
 											"height": 13,
 											"text": "+danhMuc: String",
@@ -1398,10 +1415,27 @@
 											},
 											"font": "Arial;13;0",
 											"left": 1189,
-											"top": 360,
+											"top": 375,
 											"width": 158,
 											"height": 13,
-											"text": "+moTa: String",
+											"text": "+moTaNganGon: String",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF2M0RJwclRTmY=",
+											"_parent": {
+												"$ref": "AAAAAAF2DkpwX51RZi8="
+											},
+											"model": {
+												"$ref": "AAAAAAF2M0RJqclI9c4="
+											},
+											"font": "Arial;13;0",
+											"left": 1189,
+											"top": 390,
+											"width": 158,
+											"height": 13,
+											"text": "+moTaChiTiet: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1409,7 +1443,7 @@
 									"left": 1184,
 									"top": 310,
 									"width": 168,
-									"height": 68
+									"height": 98
 								},
 								{
 									"_type": "UMLOperationCompartmentView",
@@ -1422,7 +1456,7 @@
 									},
 									"font": "Arial;13;0",
 									"left": 1184,
-									"top": 378,
+									"top": 408,
 									"width": 168,
 									"height": 10
 								},
@@ -1949,6 +1983,15 @@
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
+							"_id": "AAAAAAF2M0P2fshSVkY=",
+							"_parent": {
+								"$ref": "AAAAAAF2DkpwXp1JPtA="
+							},
+							"name": "id",
+							"type": "int"
+						},
+						{
+							"_type": "UMLAttribute",
 							"_id": "AAAAAAF2DkqSNJ2d12M=",
 							"_parent": {
 								"$ref": "AAAAAAF2DkpwXp1JPtA="
@@ -1980,7 +2023,16 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DkpwXp1JPtA="
 							},
-							"name": "moTa",
+							"name": "moTaNganGon",
+							"type": "String"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAF2M0RJqclI9c4=",
+							"_parent": {
+								"$ref": "AAAAAAF2DkpwXp1JPtA="
+							},
+							"name": "moTaChiTiet",
 							"type": "String"
 						}
 					]

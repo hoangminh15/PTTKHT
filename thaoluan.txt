@@ -1,1 +1,0 @@
-- Bỏ các trường (Danh mục, SP nổi bật) Trong XemTrangSP và XemChiTietSP để bớt đạc tả và vẽ dễ hơn ?

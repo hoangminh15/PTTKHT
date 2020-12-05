@@ -1,2 +1,0 @@
-- Thiết kế kiểu dữ liệu cho các thuộc tính?
-- hotline do ai phụ trách (thêm vào tất cả cả sơ đồ lớp)
