@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T13:48:39.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="cxPMKJZeWlzCODk3zX3Z" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T06:47:40.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="ijQ52RQk4qbUbl0xW2KQ" version="14.0.1" type="github">
   <diagram id="ggRN562XI57otyQyplnl" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,8 +85,8 @@
             <mxPoint x="310" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kedC6RMu_d--TANpmm6A-28" value="SuaThongtinSP(s:Product)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="180" y="220" width="40" height="20" as="geometry" />
+        <mxCell id="kedC6RMu_d--TANpmm6A-28" value="SuaThongtinSP(:Product)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="181" y="220" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kedC6RMu_d--TANpmm6A-29" value="" style="endArrow=classic;html=1;" parent="1" source="kedC6RMu_d--TANpmm6A-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -94,7 +94,7 @@
             <mxPoint x="550" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kedC6RMu_d--TANpmm6A-30" value="GuiThongTinSanPham(p:Product)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kedC6RMu_d--TANpmm6A-30" value="GuiThongTinSanPham(:Product)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="240" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kedC6RMu_d--TANpmm6A-34" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -103,13 +103,13 @@
             <mxPoint x="777" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kedC6RMu_d--TANpmm6A-35" value="LuuThongTinSPMoi(p:Product)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kedC6RMu_d--TANpmm6A-35" value="LuuThongTinSPMoi(:Product)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="650" y="260" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kedC6RMu_d--TANpmm6A-36" value="XacNhanLuuThanhCong(p:Product)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.04;exitY=0.815;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kedC6RMu_d--TANpmm6A-22" target="kedC6RMu_d--TANpmm6A-21" edge="1">
+        <mxCell id="kedC6RMu_d--TANpmm6A-36" value="XacNhanLuuThanhCong(:Product)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.04;exitY=0.815;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="270" as="sourcePoint" />
-            <mxPoint x="380" y="270" as="targetPoint" />
+            <mxPoint x="781.4000000000001" y="312.6" as="sourcePoint" />
+            <mxPoint x="566" y="312.6" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
