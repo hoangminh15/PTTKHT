@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T11:55:07.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="SImmRjUTJBNvCtCkC1rm" version="14.0.0" type="github"><diagram id="a2SeSxV-dU5_Vpd82xMR" name="Page-1">5VhLb+IwEP41SLsHqiQOFI4E+ji0VaVW7e6pMokJ1jpx1jEU+ut3nNjkCS27oEXtBTyfx2PPN+OxnQ4aR6srgZP5LQ8I6zhWsOqgScdxbAsN4E8h6xzpuRoIBQ20UgE80DdiRmp0QQOSVhQl50zSpAr6PI6JLysYFoK/VtVmnFVnTXBIGsCDj1kTfaaBnOfowDkv8GtCw7mZ2e4P854IG2XtSTrHAX8tQeiig8aCc5m3otWYMEWe4SUfd7mld7MwQWL5kQHes/PkTx7PQ/nmPnKSvgkv6upgLDFbaIdHQURjvWK5NjTA4hPVXERs5EsuOshbEiEpEHWDp4Td85RKymNQmXIpeVRSGDEaqg7JE0DnMmIg2NBseqCdUiPJqgRpj64Ij4gUa1DRvX1Nrs4uZ6Dl1yJWSEPzUpjMMKyzI9wYLgiEhuZwDz6HDT47Tp/BrF5SIbT/e6Hi7kVYhEA3GkGvlazgN+PFyvFuRpnqc0t9QI3s4pxU1ecDfUQUNqEV6v9sZloCcKRiwMrd4OcWjSlfxAFWrGwz1C61mc0NCoM8vdwR2JqFblLXnQtFmKkHxjd7u5sBXTbWF0/TJJMVbzHMeIcjUpq1OqZpxgy7ofGvPYbVvd09tKm3t+9/lVyMzGQpu5q2lW5KCETq2/edTpWCV6sb7TVAJ+8kX4HHQWvGsto4o2q/eTMeS30W2I6WL3FEmdrn14QtibJ68GqyOXVMOXGb5cRuqyf2+bEKilnR56gocEpLwdkRCsr48AXlpPclDgLl8K6N+am3qotOb6vaLVu1RjKJg5G6lYLkM5ym1K8yQ1ZU/lDtM8saaPknyNaZa/W1PFEUWEZYl4R7Iij4Als3x7bynPKF8Mn79xgSVG7HzWiU2O61kG0wQRiWdFm9U7cFQM9wzymseBNsNKwGGzm1GOb+6FHlO3DNkIvsqiFrUDUkYQsS2TCU5cPG7X9IEecAKQIldK1ypGuZJFGIzpJsD2ZAkSaZtC5Lh0sUzV/O2xdMKLdWhurV5dgJhT7T9QDsUnmM58btf3puvKjgKcqy8H/8/bDNHFPvkMxgKgWNw32fGidygfmSN5Z+7/RuLO4Bj6O208gZHvQ0eveUMeXwRI6ZXu3zFDLr2/eY6btOzdChjhkQi0+QuXrxIRdd/AE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-16T07:35:00.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="efgWeSjb_2VxIph5PAiE" version="14.0.1" type="github">
+  <diagram id="a2SeSxV-dU5_Vpd82xMR" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-8" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;boundary&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;V_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ newsName&lt;/div&gt;&lt;div&gt;+ newsLink&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ seeNew()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="240" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;control&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;C_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ openNewsLink()&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="240" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-11" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BW2VcDT7gtz4ToeszrBm-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="431" y="308" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-12" value="" style="endArrow=classic;html=1;entryX=-0.008;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BW2VcDT7gtz4ToeszrBm-8" target="BW2VcDT7gtz4ToeszrBm-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;entity&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;M_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ news_id: int&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ news_link: string&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="240" width="130" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-14" value="" style="endArrow=classic;html=1;entryX=0.008;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BW2VcDT7gtz4ToeszrBm-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="313" as="sourcePoint" />
+            <mxPoint x="642" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
