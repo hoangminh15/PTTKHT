@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T10:27:55.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="r3XFNVUVXoXGPVYlFHGS" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T10:47:27.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="7d8rtiYxISbDRp03Qtpl" version="14.0.4" type="github">
   <diagram id="gPTn3N0MgV1BMtI-SlPy" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="YRtdrOycz8NmZLceIQQI-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="YRtdrOycz8NmZLceIQQI-2" vertex="1">
           <mxGeometry y="150" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="YRtdrOycz8NmZLceIQQI-5" value="+ hienThiGiaoDien()&#xa;+ nhapThongTin(:contactDetails)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YRtdrOycz8NmZLceIQQI-2" vertex="1">
+        <mxCell id="YRtdrOycz8NmZLceIQQI-5" value="+ nhapThongTin(:contactDetails)&#xa;+ guiYeuCau()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YRtdrOycz8NmZLceIQQI-2" vertex="1">
           <mxGeometry y="158" width="220" height="52" as="geometry" />
         </mxCell>
         <mxCell id="YRtdrOycz8NmZLceIQQI-10" value="" style="endArrow=classic;html=1;entryX=0.016;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.455;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YRtdrOycz8NmZLceIQQI-3" target="POWTqGqZzCkaKUgrUB-V-2" edge="1">
@@ -40,7 +40,7 @@
         <mxCell id="POWTqGqZzCkaKUgrUB-V-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="POWTqGqZzCkaKUgrUB-V-1" vertex="1">
           <mxGeometry y="66" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="POWTqGqZzCkaKUgrUB-V-4" value="+kiemTraThongTin(:contactDetails)&#xa;+ thongBaoThanhCong()&#xa;+ guiEmailDenUser()&#xa;+ thognBaoKhongHople()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="POWTqGqZzCkaKUgrUB-V-1" vertex="1">
+        <mxCell id="POWTqGqZzCkaKUgrUB-V-4" value="+kiemTraThongTin(:contactDetails)&#xa;+ thongBaoThanhCong()&#xa;+ guiEmailDenUser()&#xa;+ thongBaoKhongHople()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="POWTqGqZzCkaKUgrUB-V-1" vertex="1">
           <mxGeometry y="74" width="200" height="66" as="geometry" />
         </mxCell>
       </root>
