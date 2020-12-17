@@ -1,37 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T07:35:00.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="efgWeSjb_2VxIph5PAiE" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:51:54.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="7FP2HAsuLK4bMMXA6pJs" version="14.0.4" type="github">
   <diagram id="a2SeSxV-dU5_Vpd82xMR" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-8" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="280" width="30" height="60" as="geometry" />
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-8" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;boundary&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;V_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ newsName&lt;/div&gt;&lt;div&gt;+ newsLink&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ seeNew()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="240" width="130" height="170" as="geometry" />
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;boundary&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;V_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;+ newsName&lt;/div&gt;&lt;div&gt;+ newsLink&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="240" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;control&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;C_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ openNewsLink()&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="240" width="130" height="170" as="geometry" />
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;control&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;C_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ openNewsPage(:News)&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="240" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-11" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BW2VcDT7gtz4ToeszrBm-9" edge="1">
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-11" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BW2VcDT7gtz4ToeszrBm-9" edge="1" target="BW2VcDT7gtz4ToeszrBm-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="431" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-12" value="" style="endArrow=classic;html=1;entryX=-0.008;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BW2VcDT7gtz4ToeszrBm-8" target="BW2VcDT7gtz4ToeszrBm-9" edge="1">
+        <mxCell id="BW2VcDT7gtz4ToeszrBm-12" value="" style="endArrow=classic;html=1;entryX=-0.008;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BW2VcDT7gtz4ToeszrBm-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="100" y="294" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&lt;/i&gt;&amp;lt;entity&lt;i&gt;&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;M_News&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;+ news_id: int&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ news_link: string&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="240" width="130" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="BW2VcDT7gtz4ToeszrBm-14" value="" style="endArrow=classic;html=1;entryX=0.008;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="BW2VcDT7gtz4ToeszrBm-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="313" as="sourcePoint" />
-            <mxPoint x="642" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
