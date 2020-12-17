@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T10:17:47.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="VhT6cmjX0_dJjhsDoxQ8" version="13.11.0" type="device"><diagram id="gPTn3N0MgV1BMtI-SlPy" name="Page-1">7Vldc5s4FP01zOw+xMOXqffRQNbp1End2mm3fekooIAmArlCJHZ+/V4ZYb4dJ3V2H5qMJ6CjKyHdc66419YsL9nMOFrHlyzEVDP1cKNZvmaahm5N4CKRbYGMbQVEnITKqAKW5BGXIxWakxBnDUPBGBVk3QQDlqY4EA0Mcc4emma3jDafukYR7gDLANEu+pWEIi7QyViv8AtMorh8sqGrngSVxgrIYhSyhxpknWuWxxkTxV2y8TCVziv9Uoz7e6B3vzCOU3HMgG+fRcg/boPHyVXyfR7g958+vT9Ts9wjmqsNX2eYqwWLbekFWPta3uYJnQaCcc1y7zEXBPw0RzeYLlhGBGEpmNwwIVhSM5hSEskOwdaAxiKh0DDgluWCkhR7e+Z0ALu7KpcI0+FNDVK7nGGWYMG3YKJ6S26U4vbth4o/S0FxjTpHYUgpJtpPXDkVbpRfn+Fjs+NjzXSo2G22uN6wPA2RfJQTKby8aqZlSL98+TEnOL3AXWoeSEJRCi33lqViqXqkg5HyfAC+xHyQkiAmNJyjLfABWCZQcFe23Jhx8gjTopI06OZChamtNyyWcqSikeMMbBYljUYLukSbhuEcZaUAAkYpWmfkZr+NBPGIpK7S1alUYtpNmRiTrkz2sVvXyX7gyYVi9QjF9VEaX+bBEqWLGMH+p2Ax5Rxt5wR8pgS0FJykUY9sYAI18ooRF4kXjPcJ8mLioQD+X8WwGm9VzLIfVDO+YIKzFc+DVb7F6bDd6lDnkvmg9VXMEBk2Ok+IFOVQtxfnPh7uBm/4OYB1A8/UpnonvkBOYqd7zu7grKLy8PNTVgQcobQFlTFH8a0YjLhsjQJ44nxn49sV8lnJTEIMxt7S3RsjJmEoHeZyJpBARWjInawZScVOhmMXPrB6Tx+NtTEs3IO2UbXhI825gOMW9oLILnAwxN0DzkRvSB08zJ6OMxVX9pFhZbxaWNk9YdUiWb6H9iSX73njRQwnwBXFFaUrybh/ZnRot7q0Wz0U09b7lRe2Ler/L3aPPjUnr0TuuO/MvNgdH2RG0O4k+ePPVvBDNgOnC3BDOn0uYnNGJPp2DpxYKZPjlDI2X0kqZUlx6CDAaTiVVYPMmijKMhI0c1ZwCt/+IwNaH+mGWSLfFDKxS8QvE5yita23FpgT2JJMyQ5nMxnLeYCfzhhw2ChiuhzUfD7uc7nCOKZIkPtm6dPHg3rCQsquSqlsvZlSWUbrSC/2o0bVS5XWRI4+Genv/qr+mgm944wcuzkzZKURFp2ZdzrZ++EXpNOtk14uHdCJ3lCOPrKc/1g4ZSm9c9vvJzC7XSO2i7/T6Wnx8evq5+zn90fvDn24jvi1e/alp+xul4QBlFSc0QMVofdWEXYqws7rqCc6BitCx2iJwuzmNobTl7q2ZfiSV1avTnq+OlBViv5WrjzN93DsPadc6eVcxuGrUN73JcDvWa2cnlzHOY7cExQrvavrq0TdDwQnK46GCpJZTupdb+F+UkW8s49ThPX8cIdm9eV+kThUP5FY5/8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-17T03:46:05.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="ffpxxDAF0D2fkPjmN9yO" version="14.0.4" type="github">
+  <diagram id="gPTn3N0MgV1BMtI-SlPy" name="Page-1">
+    <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YRtdrOycz8NmZLceIQQI-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRtdrOycz8NmZLceIQQI-2" value="&lt;&lt;boundary&gt;&gt;&#xa;V_Contact" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="190" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YRtdrOycz8NmZLceIQQI-3" value="&#xa;+ DiaChiCacChiNhanhCT: String&#xa;+ Ten: String&#xa;+ SoDienThoai: String&#xa;+ Email: String&#xa;+ ChuDe: String&#xa;+ NoiDung: String " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YRtdrOycz8NmZLceIQQI-2" vertex="1">
+          <mxGeometry y="40" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YRtdrOycz8NmZLceIQQI-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="YRtdrOycz8NmZLceIQQI-2" vertex="1">
+          <mxGeometry y="150" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="YRtdrOycz8NmZLceIQQI-5" value="+ HienThiGiaoDien()&#xa;+ nhapThongTin(:contactDetails)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YRtdrOycz8NmZLceIQQI-2" vertex="1">
+          <mxGeometry y="158" width="220" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="YRtdrOycz8NmZLceIQQI-10" value="" style="endArrow=classic;html=1;entryX=0.016;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.455;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YRtdrOycz8NmZLceIQQI-3" edge="1" target="POWTqGqZzCkaKUgrUB-V-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="608.0799999999999" y="266.64" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRtdrOycz8NmZLceIQQI-11" value="" style="endArrow=classic;html=1;" parent="1" source="YRtdrOycz8NmZLceIQQI-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="250" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POWTqGqZzCkaKUgrUB-V-1" value="&lt;&lt;control&gt;&gt;&#xa;C_Contact" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="610" y="240" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="POWTqGqZzCkaKUgrUB-V-2" value="   " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="POWTqGqZzCkaKUgrUB-V-1" vertex="1">
+          <mxGeometry y="40" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="POWTqGqZzCkaKUgrUB-V-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="POWTqGqZzCkaKUgrUB-V-1" vertex="1">
+          <mxGeometry y="66" width="200" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="POWTqGqZzCkaKUgrUB-V-4" value="+KiemTraThongTin(:contactDetails)&#xa;+ thongBaoThanhCong()&#xa;+ guiEmailDenUser()&#xa;+ thognBaoKhongHople()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="POWTqGqZzCkaKUgrUB-V-1" vertex="1">
+          <mxGeometry y="74" width="200" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
