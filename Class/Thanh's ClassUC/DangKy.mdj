@@ -244,7 +244,7 @@
 											"top": 228,
 											"width": 151,
 											"height": 13,
-											"text": "GiaoDienDangky"
+											"text": "V_Dangky"
 										},
 										{
 											"_type": "LabelView",
@@ -314,7 +314,7 @@
 											"top": 251,
 											"width": 151,
 											"height": 13,
-											"text": "-email: String",
+											"text": "+email: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -331,7 +331,7 @@
 											"top": 266,
 											"width": 151,
 											"height": 13,
-											"text": "-matKhau: string",
+											"text": "+matKhau: string",
 											"horizontalAlignment": 0
 										},
 										{
@@ -348,7 +348,7 @@
 											"top": 281,
 											"width": 151,
 											"height": 13,
-											"text": "-hoVaTen: String",
+											"text": "+hoVaTen: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -365,7 +365,7 @@
 											"top": 296,
 											"width": 151,
 											"height": 13,
-											"text": "-gioiTinh: bool",
+											"text": "+gioiTinh: bool",
 											"horizontalAlignment": 0
 										},
 										{
@@ -382,7 +382,7 @@
 											"top": 311,
 											"width": 151,
 											"height": 13,
-											"text": "-soDienThoai: String",
+											"text": "+soDienThoai: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -399,7 +399,7 @@
 											"top": 326,
 											"width": 151,
 											"height": 13,
-											"text": "-diaChi: String",
+											"text": "+diaChi: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -450,7 +450,7 @@
 											"top": 364,
 											"width": 151,
 											"height": 13,
-											"text": "+dangKy()",
+											"text": "+nhanDangKy()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -542,7 +542,7 @@
 											"font": "Arial;13;0",
 											"left": 501,
 											"top": 221,
-											"width": 191,
+											"width": 215.20458984375,
 											"height": 13,
 											"text": "«control»"
 										},
@@ -555,9 +555,9 @@
 											"font": "Arial;13;1",
 											"left": 501,
 											"top": 236,
-											"width": 191,
+											"width": 215.20458984375,
 											"height": 13,
-											"text": "DieuKhienDangKy"
+											"text": "C_DangKy"
 										},
 										{
 											"_type": "LabelView",
@@ -588,7 +588,7 @@
 									"font": "Arial;13;0",
 									"left": 496,
 									"top": 216,
-									"width": 201,
+									"width": 225.20458984375,
 									"height": 38,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF2DSLaVIfKDjM="
@@ -615,7 +615,7 @@
 									"font": "Arial;13;0",
 									"left": 496,
 									"top": 254,
-									"width": 201,
+									"width": 225.20458984375,
 									"height": 10
 								},
 								{
@@ -640,9 +640,9 @@
 											"font": "Arial;13;0",
 											"left": 501,
 											"top": 269,
-											"width": 191,
+											"width": 215.20458984375,
 											"height": 13,
-											"text": "+kiemTraTruongBatBuoc()",
+											"text": "+kiemTraTruongBatBuoc(user: User)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -657,9 +657,9 @@
 											"font": "Arial;13;0",
 											"left": 501,
 											"top": 284,
-											"width": 191,
+											"width": 215.20458984375,
 											"height": 13,
-											"text": "+kiemtraEmail()",
+											"text": "+kiemtraEmail(email)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -674,9 +674,9 @@
 											"font": "Arial;13;0",
 											"left": 501,
 											"top": 299,
-											"width": 191,
+											"width": 215.20458984375,
 											"height": 13,
-											"text": "+kiemTraMatKhauNhapLai()",
+											"text": "+kiemTraMatKhauNhapLai(matKhau)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -691,26 +691,9 @@
 											"font": "Arial;13;0",
 											"left": 501,
 											"top": 314,
-											"width": 191,
+											"width": 215.20458984375,
 											"height": 13,
-											"text": "+luuTaiKhoan()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAF2DSkpy5Tw2Yc=",
-											"_parent": {
-												"$ref": "AAAAAAF2DSLaVIfPX8I="
-											},
-											"model": {
-												"$ref": "AAAAAAF2DSkpm5TtdJI="
-											},
-											"font": "Arial;13;0",
-											"left": 501,
-											"top": 329,
-											"width": 191,
-											"height": 13,
-											"text": "+dangNhap()",
+											"text": "+luuTaiKhoan(user: User)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -724,35 +707,18 @@
 											},
 											"font": "Arial;13;0",
 											"left": 501,
-											"top": 344,
-											"width": 191,
+											"top": 329,
+											"width": 215.20458984375,
 											"height": 13,
 											"text": "+baoLoi()",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAF2DSmxFpX6x3o=",
-											"_parent": {
-												"$ref": "AAAAAAF2DSLaVIfPX8I="
-											},
-											"model": {
-												"$ref": "AAAAAAF2DSmw6JX3L9U="
-											},
-											"font": "Arial;13;0",
-											"left": 501,
-											"top": 359,
-											"width": 191,
-											"height": 13,
-											"text": "+maHoaMatKhau()",
 											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 496,
 									"top": 264,
-									"width": 201,
-									"height": 113
+									"width": 225.20458984375,
+									"height": 83
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -789,7 +755,7 @@
 							"containerChangeable": true,
 							"left": 496,
 							"top": 216,
-							"width": 201,
+							"width": 225.20458984375,
 							"height": 185,
 							"nameCompartment": {
 								"$ref": "AAAAAAF2DSLaVIfJoJM="
@@ -851,7 +817,7 @@
 											"top": 236,
 											"width": 167,
 											"height": 13,
-											"text": "NguoiDung"
+											"text": "M_NguoiDung"
 										},
 										{
 											"_type": "LabelView",
@@ -923,7 +889,7 @@
 											"top": 259,
 											"width": 167,
 											"height": 13,
-											"text": "-email: String",
+											"text": "+email: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -940,7 +906,7 @@
 											"top": 274,
 											"width": 167,
 											"height": 13,
-											"text": "-matKhau: String",
+											"text": "+matKhau: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -957,7 +923,7 @@
 											"top": 289,
 											"width": 167,
 											"height": 13,
-											"text": "-hoVaTen: String",
+											"text": "+hoVaTen: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -974,7 +940,7 @@
 											"top": 304,
 											"width": 167,
 											"height": 13,
-											"text": "-gioiTinh: bool",
+											"text": "+gioiTinh: bool",
 											"horizontalAlignment": 0
 										},
 										{
@@ -991,7 +957,7 @@
 											"top": 319,
 											"width": 167,
 											"height": 13,
-											"text": "-soDienThoai: String",
+											"text": "+soDienThoai: String",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1008,7 +974,7 @@
 											"top": 334,
 											"width": 167,
 											"height": 13,
-											"text": "-diaChi: String",
+											"text": "+diaChi: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1647,7 +1613,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 740,
+									"left": 752,
 									"top": 287,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1668,7 +1634,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 740,
+									"left": 752,
 									"top": 272,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1689,7 +1655,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 740,
+									"left": 752,
 									"top": 317,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -1710,7 +1676,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 722,
+									"left": 746,
 									"top": 287,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -1731,7 +1697,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 725,
+									"left": 749,
 									"top": 273,
 									"height": 13,
 									"alpha": 0.7853981633974483,
@@ -1752,7 +1718,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 718,
+									"left": 742,
 									"top": 314,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -1859,7 +1825,7 @@
 								"$ref": "AAAAAAF2DSLaVIfIYkk="
 							},
 							"lineStyle": 1,
-							"points": "697:308;783:308",
+							"points": "721:308;783:308",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF2DSMzZIlKIF8="
@@ -1941,7 +1907,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "GiaoDienDangky",
+					"name": "V_Dangky",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -1981,7 +1947,6 @@
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
 							"name": "email",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -1991,7 +1956,6 @@
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
 							"name": "matKhau",
-							"visibility": "private",
 							"type": "string"
 						},
 						{
@@ -2001,7 +1965,6 @@
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
 							"name": "hoVaTen",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -2011,7 +1974,6 @@
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
 							"name": "gioiTinh",
-							"visibility": "private",
 							"type": "bool"
 						},
 						{
@@ -2021,7 +1983,6 @@
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
 							"name": "soDienThoai",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -2031,7 +1992,6 @@
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
 							"name": "diaChi",
-							"visibility": "private",
 							"type": "String"
 						}
 					],
@@ -2050,7 +2010,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DSK/u4edylQ="
 							},
-							"name": "dangKy"
+							"name": "nhanDangKy"
 						}
 					]
 				},
@@ -2060,7 +2020,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "DieuKhienDangKy",
+					"name": "C_DangKy",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -2099,7 +2059,18 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DSLaVIfGvIY="
 							},
-							"name": "kiemTraTruongBatBuoc"
+							"name": "kiemTraTruongBatBuoc",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF2YPGh1/fg54w=",
+									"_parent": {
+										"$ref": "AAAAAAF2DScAa5GBH/4="
+									},
+									"name": "user",
+									"type": "User"
+								}
+							]
 						},
 						{
 							"_type": "UMLOperation",
@@ -2107,7 +2078,18 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DSLaVIfGvIY="
 							},
-							"name": "kiemtraEmail"
+							"name": "kiemtraEmail",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF2YPHoY/gZ3ng=",
+									"_parent": {
+										"$ref": "AAAAAAF2DSfygZHH5M0="
+									},
+									"name": "email",
+									"type": ""
+								}
+							]
 						},
 						{
 							"_type": "UMLOperation",
@@ -2115,7 +2097,18 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DSLaVIfGvIY="
 							},
-							"name": "kiemTraMatKhauNhapLai"
+							"name": "kiemTraMatKhauNhapLai",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF2YPhye/hSNSo=",
+									"_parent": {
+										"$ref": "AAAAAAF2DSg3M5INPfM="
+									},
+									"name": "matKhau",
+									"type": ""
+								}
+							]
 						},
 						{
 							"_type": "UMLOperation",
@@ -2123,15 +2116,18 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DSLaVIfGvIY="
 							},
-							"name": "luuTaiKhoan"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAF2DSkpm5TtdJI=",
-							"_parent": {
-								"$ref": "AAAAAAF2DSLaVIfGvIY="
-							},
-							"name": "dangNhap"
+							"name": "luuTaiKhoan",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF2YPi0j/iLsJc=",
+									"_parent": {
+										"$ref": "AAAAAAF2DSjpR5SngBE="
+									},
+									"name": "user",
+									"type": "User"
+								}
+							]
 						},
 						{
 							"_type": "UMLOperation",
@@ -2140,14 +2136,6 @@
 								"$ref": "AAAAAAF2DSLaVIfGvIY="
 							},
 							"name": "baoLoi"
-						},
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAF2DSmw6JX3L9U=",
-							"_parent": {
-								"$ref": "AAAAAAF2DSLaVIfGvIY="
-							},
-							"name": "maHoaMatKhau"
 						}
 					]
 				},
@@ -2157,7 +2145,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "NguoiDung",
+					"name": "M_NguoiDung",
 					"stereotype": "entity",
 					"attributes": [
 						{
@@ -2167,7 +2155,6 @@
 								"$ref": "AAAAAAF2DSL2yofww5E="
 							},
 							"name": "email",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -2177,7 +2164,6 @@
 								"$ref": "AAAAAAF2DSL2yofww5E="
 							},
 							"name": "matKhau",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -2187,7 +2173,6 @@
 								"$ref": "AAAAAAF2DSL2yofww5E="
 							},
 							"name": "hoVaTen",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -2197,7 +2182,6 @@
 								"$ref": "AAAAAAF2DSL2yofww5E="
 							},
 							"name": "gioiTinh",
-							"visibility": "private",
 							"type": "bool"
 						},
 						{
@@ -2207,7 +2191,6 @@
 								"$ref": "AAAAAAF2DSL2yofww5E="
 							},
 							"name": "soDienThoai",
-							"visibility": "private",
 							"type": "String"
 						},
 						{
@@ -2217,7 +2200,6 @@
 								"$ref": "AAAAAAF2DSL2yofww5E="
 							},
 							"name": "diaChi",
-							"visibility": "private",
 							"type": "String"
 						}
 					]

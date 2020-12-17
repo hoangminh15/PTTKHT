@@ -245,7 +245,7 @@
 											"top": 420,
 											"width": 167,
 											"height": 13,
-											"text": "GiaoDienTimSanPham"
+											"text": "V_TimSanPham"
 										},
 										{
 											"_type": "LabelView",
@@ -317,7 +317,7 @@
 											"top": 443,
 											"width": 167,
 											"height": 13,
-											"text": "-khungTimKiem: String",
+											"text": "+khungTimKiem: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -351,7 +351,7 @@
 											"top": 466,
 											"width": 167,
 											"height": 13,
-											"text": "+nhapDuLieu()",
+											"text": "+nhapTuKhoa()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -368,7 +368,7 @@
 											"top": 481,
 											"width": 167,
 											"height": 13,
-											"text": "+tim()",
+											"text": "+nhanTimKiem()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -477,7 +477,7 @@
 											"top": 268,
 											"width": 174,
 											"height": 13,
-											"text": "DieuKhienTimKiem"
+											"text": "C_TimSanPham"
 										},
 										{
 											"_type": "LabelView",
@@ -564,7 +564,7 @@
 											"top": 301,
 											"width": 174,
 											"height": 13,
-											"text": "+kiemTraNhapVao()",
+											"text": "+kiemTraNhapVao(tuKhoa)",
 											"horizontalAlignment": 0
 										},
 										{
@@ -598,7 +598,41 @@
 											"top": 331,
 											"width": 174,
 											"height": 13,
-											"text": "+timKiem()",
+											"text": "+timKiem(tuKhoa)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF2YQ9OskYngew=",
+											"_parent": {
+												"$ref": "AAAAAAF2DeS/fMVDbok="
+											},
+											"model": {
+												"$ref": "AAAAAAF2YQ9OhUYkO9g="
+											},
+											"font": "Arial;13;0",
+											"left": 405,
+											"top": 346,
+											"width": 174,
+											"height": 13,
+											"text": "+hienThiKetQua()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF2YRFnSkqX+yc=",
+											"_parent": {
+												"$ref": "AAAAAAF2DeS/fMVDbok="
+											},
+											"model": {
+												"$ref": "AAAAAAF2YRFnI0qU1Tw="
+											},
+											"font": "Arial;13;0",
+											"left": 405,
+											"top": 361,
+											"width": 174,
+											"height": 13,
+											"text": "+thongBao()",
 											"horizontalAlignment": 0
 										}
 									],
@@ -606,7 +640,7 @@
 									"left": 400,
 									"top": 296,
 									"width": 184,
-									"height": 53
+									"height": 83
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -1256,7 +1290,7 @@
 											"top": 76,
 											"width": 190,
 											"height": 13,
-											"text": "TrangChu"
+											"text": "V_TrangChu"
 										},
 										{
 											"_type": "LabelView",
@@ -1343,7 +1377,7 @@
 											"top": 109,
 											"width": 190,
 											"height": 13,
-											"text": "+hienThiManHinh()",
+											"text": "+hienTrangChu()",
 											"horizontalAlignment": 0
 										},
 										{
@@ -2705,7 +2739,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "GiaoDienTimSanPham",
+					"name": "V_TimSanPham",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -2745,7 +2779,6 @@
 								"$ref": "AAAAAAF2Dd7HbMQgKCM="
 							},
 							"name": "khungTimKiem",
-							"visibility": "private",
 							"type": "String"
 						}
 					],
@@ -2756,7 +2789,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2Dd7HbMQgKCM="
 							},
-							"name": "nhapDuLieu"
+							"name": "nhapTuKhoa"
 						},
 						{
 							"_type": "UMLOperation",
@@ -2764,7 +2797,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2Dd7HbMQgKCM="
 							},
-							"name": "tim"
+							"name": "nhanTimKiem"
 						}
 					]
 				},
@@ -2774,7 +2807,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "DieuKhienTimKiem",
+					"name": "C_TimSanPham",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -2841,7 +2874,18 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DeS/esU6Zhw="
 							},
-							"name": "kiemTraNhapVao"
+							"name": "kiemTraNhapVao",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF2YQ7+akVr5kI=",
+									"_parent": {
+										"$ref": "AAAAAAF2DeVXxcWZAZc="
+									},
+									"name": "tuKhoa",
+									"type": ""
+								}
+							]
 						},
 						{
 							"_type": "UMLOperation",
@@ -2857,7 +2901,34 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DeS/esU6Zhw="
 							},
-							"name": "timKiem"
+							"name": "timKiem",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF2YQ9Fa0XIK3s=",
+									"_parent": {
+										"$ref": "AAAAAAF2DeYnaMXkP9w="
+									},
+									"name": "tuKhoa",
+									"type": ""
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF2YQ9OhUYkO9g=",
+							"_parent": {
+								"$ref": "AAAAAAF2DeS/esU6Zhw="
+							},
+							"name": "hienThiKetQua"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF2YRFnI0qU1Tw=",
+							"_parent": {
+								"$ref": "AAAAAAF2DeS/esU6Zhw="
+							},
+							"name": "thongBao"
 						}
 					]
 				},
@@ -2931,7 +3002,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "TrangChu",
+					"name": "V_TrangChu",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -2970,7 +3041,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2DevFXc0A6XI="
 							},
-							"name": "hienThiManHinh"
+							"name": "hienTrangChu"
 						},
 						{
 							"_type": "UMLOperation",

@@ -1,0 +1,4 @@
+Các trường cảu đăng ký còn thiếu
+Liên hệ nhà phân phối trong xem chi tiết sp
+Xem đầu ra
+Xem lại các tham số các sequences (ảnh hưởng đến đặc tả chi tiết lớp)
