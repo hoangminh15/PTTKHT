@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-17T03:22:38.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="4nIDHXFLrxFpJxsehAEl" version="14.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T15:03:26.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="JtmkWOD2OsgGBnB2c-_g" version="14.0.4" type="github">
   <diagram id="JncyCxfCkeQ2kdFRJvFO" name="Page-1">
-    <mxGraphModel dx="1038" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,10 +19,10 @@
         <mxCell id="o-jL-rA30Tc-0fOHM3Hn-5" value=":M_Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="775" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o-jL-rA30Tc-0fOHM3Hn-6" value=":C_DeleteProduct" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o-jL-rA30Tc-0fOHM3Hn-6" value=":C_ProductRemover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="555" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o-jL-rA30Tc-0fOHM3Hn-7" value=":V_Product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="o-jL-rA30Tc-0fOHM3Hn-7" value=":V_ProductRemoverPage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="100" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="o-jL-rA30Tc-0fOHM3Hn-8" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="o-jL-rA30Tc-0fOHM3Hn-5" edge="1">
