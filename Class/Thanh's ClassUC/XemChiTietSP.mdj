@@ -308,7 +308,7 @@
 											"top": 283,
 											"width": 238,
 											"height": 13,
-											"text": "+danhMucSanPham: ArrayList<String>",
+											"text": "+danhMucSanPham: List<String>",
 											"horizontalAlignment": 0
 										},
 										{
@@ -325,7 +325,7 @@
 											"top": 298,
 											"width": 238,
 											"height": 13,
-											"text": "+sanPhamNoiBat: ArrayList<SanPham>",
+											"text": "+sanPhamNoiBat: List<:SanPham>",
 											"horizontalAlignment": 0
 										},
 										{
@@ -347,6 +347,23 @@
 										},
 										{
 											"_type": "UMLAttributeView",
+											"_id": "AAAAAAF2dpKM1Rk8yPw=",
+											"_parent": {
+												"$ref": "AAAAAAF2Dk2FgcG2DB4="
+											},
+											"model": {
+												"$ref": "AAAAAAF2dpKMrBk5ph0="
+											},
+											"font": "Arial;13;0",
+											"left": 141,
+											"top": 328,
+											"width": 238,
+											"height": 13,
+											"text": "+moTaNganGon: String",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
 											"_id": "AAAAAAF2Dk8pr8IFMt4=",
 											"_parent": {
 												"$ref": "AAAAAAF2Dk2FgcG2DB4="
@@ -356,27 +373,10 @@
 											},
 											"font": "Arial;13;0",
 											"left": 141,
-											"top": 328,
-											"width": 238,
-											"height": 13,
-											"text": "+moTaChiTietSP: String",
-											"horizontalAlignment": 0
-										},
-										{
-											"_type": "UMLAttributeView",
-											"_id": "AAAAAAF2Dk9rNcIM7NA=",
-											"_parent": {
-												"$ref": "AAAAAAF2Dk2FgcG2DB4="
-											},
-											"model": {
-												"$ref": "AAAAAAF2Dk9rIMIJVSE="
-											},
-											"font": "Arial;13;0",
-											"left": 141,
 											"top": 343,
 											"width": 238,
 											"height": 13,
-											"text": "+lienHe: String",
+											"text": "+moTaChiTietSP: String",
 											"horizontalAlignment": 0
 										}
 									],
@@ -395,30 +395,11 @@
 									"model": {
 										"$ref": "AAAAAAF2Dk2FgMGuAog="
 									},
-									"subViews": [
-										{
-											"_type": "UMLOperationView",
-											"_id": "AAAAAAF2Dk5PLsH5F9U=",
-											"_parent": {
-												"$ref": "AAAAAAF2Dk2FgcG3Cak="
-											},
-											"model": {
-												"$ref": "AAAAAAF2Dk5PAcH2x1Y="
-											},
-											"font": "Arial;13;0",
-											"left": 141,
-											"top": 366,
-											"width": 238,
-											"height": 13,
-											"text": "+hienThiGiaoDienXemChiTietSP()",
-											"horizontalAlignment": 0
-										}
-									],
 									"font": "Arial;13;0",
 									"left": 136,
 									"top": 361,
 									"width": 248,
-									"height": 23
+									"height": 10
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -1874,7 +1855,7 @@
 								"$ref": "AAAAAAF2Dk2FgMGuAog="
 							},
 							"name": "danhMucSanPham",
-							"type": "ArrayList<String>"
+							"type": "List<String>"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1883,7 +1864,7 @@
 								"$ref": "AAAAAAF2Dk2FgMGuAog="
 							},
 							"name": "sanPhamNoiBat",
-							"type": "ArrayList<SanPham>"
+							"type": "List<:SanPham>"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1896,31 +1877,21 @@
 						},
 						{
 							"_type": "UMLAttribute",
+							"_id": "AAAAAAF2dpKMrBk5ph0=",
+							"_parent": {
+								"$ref": "AAAAAAF2Dk2FgMGuAog="
+							},
+							"name": "moTaNganGon",
+							"type": "String"
+						},
+						{
+							"_type": "UMLAttribute",
 							"_id": "AAAAAAF2Dk8pgcICxns=",
 							"_parent": {
 								"$ref": "AAAAAAF2Dk2FgMGuAog="
 							},
 							"name": "moTaChiTietSP",
 							"type": "String"
-						},
-						{
-							"_type": "UMLAttribute",
-							"_id": "AAAAAAF2Dk9rIMIJVSE=",
-							"_parent": {
-								"$ref": "AAAAAAF2Dk2FgMGuAog="
-							},
-							"name": "lienHe",
-							"type": "String"
-						}
-					],
-					"operations": [
-						{
-							"_type": "UMLOperation",
-							"_id": "AAAAAAF2Dk5PAcH2x1Y=",
-							"_parent": {
-								"$ref": "AAAAAAF2Dk2FgMGuAog="
-							},
-							"name": "hienThiGiaoDienXemChiTietSP"
 						}
 					]
 				},

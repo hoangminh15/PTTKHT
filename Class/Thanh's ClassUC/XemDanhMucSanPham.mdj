@@ -322,7 +322,7 @@
 											"top": 307,
 											"width": 234.48876953125,
 											"height": 13,
-											"text": "+danhMucSanPham: ArrayList<String>",
+											"text": "+danhMucSanPham: List<String>",
 											"horizontalAlignment": 0
 										},
 										{
@@ -339,7 +339,7 @@
 											"top": 322,
 											"width": 234.48876953125,
 											"height": 13,
-											"text": "+sanPhamNoiBat: ArrayList<SanPham>",
+											"text": "+sanPhamNoiBat: List<:SanPham>",
 											"horizontalAlignment": 0
 										},
 										{
@@ -356,7 +356,7 @@
 											"top": 337,
 											"width": 234.48876953125,
 											"height": 13,
-											"text": "+deMucSanPham: ArrayList<SanPham>",
+											"text": "+deMucSanPham: List<:SanPham>",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1908,7 +1908,7 @@
 								"$ref": "AAAAAAF2DkbvfJk8RjY="
 							},
 							"name": "danhMucSanPham",
-							"type": "ArrayList<String>"
+							"type": "List<String>"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1917,7 +1917,7 @@
 								"$ref": "AAAAAAF2DkbvfJk8RjY="
 							},
 							"name": "sanPhamNoiBat",
-							"type": "ArrayList<SanPham>"
+							"type": "List<:SanPham>"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -1926,7 +1926,7 @@
 								"$ref": "AAAAAAF2DkbvfJk8RjY="
 							},
 							"name": "deMucSanPham",
-							"type": "ArrayList<SanPham>"
+							"type": "List<:SanPham>"
 						},
 						{
 							"_type": "UMLAttribute",
