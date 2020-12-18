@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T15:33:28.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="DFp1vCkA6Jah5R98xMq9" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T15:37:31.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="EiA0Cr4HTsDfboUqGSXR" version="14.0.5" type="github">
   <diagram id="JMzQzQhul0BtLCmh5uj2" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             <mxPoint x="480" y="191" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFaiL6RQOv4JeyndozFm-14" value="GuiYeuCauLienHe(:Contact)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rFaiL6RQOv4JeyndozFm-14" value="guiYeuCauLienHe(:Contact)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="170" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-15" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -76,7 +76,7 @@
             <mxPoint x="680" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFaiL6RQOv4JeyndozFm-16" value="GuiYeuCauLienHe(:Contact)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rFaiL6RQOv4JeyndozFm-16" value="guiYeuCauLienHe(:Contact)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="190" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
@@ -92,19 +92,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFaiL6RQOv4JeyndozFm-20" value="GuiEmailChiTiet()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.04;exitY=0.528;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rFaiL6RQOv4JeyndozFm-9" edge="1">
+        <mxCell id="rFaiL6RQOv4JeyndozFm-20" value="guiEmailChiTiet()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.2;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.88;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rFaiL6RQOv4JeyndozFm-9" edge="1" target="rFaiL6RQOv4JeyndozFm-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="310" as="sourcePoint" />
             <mxPoint x="280" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFaiL6RQOv4JeyndozFm-21" value="ThongBaoThanhCong()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" target="rFaiL6RQOv4JeyndozFm-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="360" as="sourcePoint" />
-            <mxPoint x="559.8400000000001" y="409.96000000000004" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rFaiL6RQOv4JeyndozFm-22" value="ThongBaoKhongHople()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.04;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rFaiL6RQOv4JeyndozFm-9" target="rFaiL6RQOv4JeyndozFm-10" edge="1">
+        <mxCell id="rFaiL6RQOv4JeyndozFm-22" value="thongBaoKhongHople()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.04;exitY=0.952;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rFaiL6RQOv4JeyndozFm-9" target="rFaiL6RQOv4JeyndozFm-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="310" as="sourcePoint" />
             <mxPoint x="350" y="310" as="targetPoint" />
@@ -117,10 +111,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-24" value="Alter" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="290" width="620" height="150" as="geometry" />
+          <mxGeometry x="120" y="300" width="640" height="140" as="geometry" />
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="270" y="315" width="10" height="30" as="geometry" />
+          <mxGeometry x="270" y="350" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-25" value="" style="endArrow=none;dashed=1;html=1;" parent="1" target="rFaiL6RQOv4JeyndozFm-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -135,10 +129,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-27" value="Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="400" width="40" height="20" as="geometry" />
+          <mxGeometry x="180" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rFaiL6RQOv4JeyndozFm-28" value="Succeed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="330" width="40" height="20" as="geometry" />
+          <mxGeometry x="180" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SImxG4PzYLIEeIz_1b8M-1" value="thongBaoThanhCong()" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.12;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rFaiL6RQOv4JeyndozFm-9" target="rFaiL6RQOv4JeyndozFm-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
